@@ -5,6 +5,8 @@ A PowerShell Solarized Theme for the ISE that will do the Console as well as the
 
 Open PowerShell ISE, then go to **Tools -> Options -> Manage Themes -> Import** and select the downloaded ps1xml theme from here :)
 
+**Be warned as some people may not like that both the Console and Scripting pane will be edited**
+
 ## Source
 
 I used the great theme collection of Marzme at https://github.com/marzme/PowerShell_ISE_Themes
