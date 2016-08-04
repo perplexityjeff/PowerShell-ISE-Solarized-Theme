@@ -7,6 +7,10 @@ Open PowerShell ISE, then go to **Tools -> Options -> Manage Themes -> Import** 
 
 **Be warned as some people may not like that both the Console and Scripting pane will be edited**
 
+## Screenshot
+
+![alt tag](/Solarized.png)
+
 ## Source
 
 I used the great theme collection of Marzme at https://github.com/marzme/PowerShell_ISE_Themes
