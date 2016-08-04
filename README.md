@@ -3,7 +3,7 @@ A PowerShell Solarized Theme for the ISE that will do the Console as well as the
 
 ## How to use 
 
-Open PowerShell ISE, then go to Tools -> Options -> Manage Themes -> Import and select the downloaded ps1xml theme from here :)
+Open PowerShell ISE, then go to **Tools -> Options -> Manage Themes -> Import** and select the downloaded ps1xml theme from here :)
 
 ## Source
 
